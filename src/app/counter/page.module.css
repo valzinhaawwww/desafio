@@ -1,0 +1,24 @@
+.somar{
+    border:2px solid rgb(255, 251, 0);
+}
+.subtrair{
+ border:18px solid rgb(255, 0, 119) 
+
+}
+.multiplicar{
+    border:2px solid blueviolet
+}
+.dividir{
+    border:2px solid orange
+}
+
+.green{
+    color:rgb(0, 255, 0)
+}
+
+.red{
+    color:red;
+}
+.pink{
+    border:8 pink;
+}
